@@ -1,0 +1,7 @@
+{
+  "name": "cuacajakarta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}

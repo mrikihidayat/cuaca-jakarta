@@ -1,0 +1,10 @@
+/* File: theme/variables.css atau global.scss */
+
+/* Memaksa tema terang secara eksplisit pada BODY aplikasi Ionic */
+body {
+  /* Atur warna latar belakang utama ke putih */
+  --ion-background-color: #ffffff;
+    
+  /* PENTING: Gunakan juga properti color-scheme untuk browser */
+  color-scheme: light; 
+}
